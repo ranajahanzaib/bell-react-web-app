@@ -5,6 +5,7 @@ import About from './Components/About';
 import Parallax from './Components/Parallax';
 import Features from './Components/Features';
 import CTA from './Components/CTA';
+import Portfolio from './Components/Portfolio';
 import './Styles/Bootstrap.min.css';
 import './Styles/App.css';
 
@@ -18,6 +19,7 @@ class App extends Component {
         <Parallax />
         <Features />
         <CTA />
+        <Portfolio />
       </div>
     );
   }
