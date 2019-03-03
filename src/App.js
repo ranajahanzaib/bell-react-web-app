@@ -9,6 +9,7 @@ import Portfolio from './Components/Portfolio';
 import Team from './Components/Team';
 import Contact from './Components/Contact';
 import Footer from './Components/Footer';
+import ScrollTop from './Components/ScrollTop';
 import './Styles/Bootstrap.min.css';
 import './Styles/App.css';
 
@@ -26,6 +27,7 @@ class App extends Component {
         <Team />
         <Contact />
         <Footer />
+        <ScrollTop />
       </div>
     );
   }
