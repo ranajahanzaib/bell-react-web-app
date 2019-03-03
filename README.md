@@ -31,7 +31,7 @@ $ npm install
 $ npm start
 `
 
-#### Create a Production Build
+#### Step 4 => Create a Production Build
 `
 $ npm run build
 `
