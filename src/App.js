@@ -8,6 +8,7 @@ import CTA from './Components/CTA';
 import Portfolio from './Components/Portfolio';
 import Team from './Components/Team';
 import Contact from './Components/Contact';
+import Footer from './Components/Footer';
 import './Styles/Bootstrap.min.css';
 import './Styles/App.css';
 
@@ -24,6 +25,7 @@ class App extends Component {
         <Portfolio />
         <Team />
         <Contact />
+        <Footer />
       </div>
     );
   }
