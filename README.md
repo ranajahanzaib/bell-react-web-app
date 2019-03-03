@@ -36,4 +36,4 @@ $ npm start
 $ npm run build
 `
 
-#### Step 5 => Follow me on twitter [@Jahanzaibv2](https://twitter.com/Jahanzaibv2)
+#### Step 5 => Follow me on Twitter [@Jahanzaibv2](https://twitter.com/Jahanzaibv2)
