@@ -19,7 +19,7 @@ $ wget https://github.com/Jahanzaibv2/bell-react-web-app/archive/master.zip
 `
 
 `
-$ unzip master.zip && cd bell-reat-web-app/
+$ unzip master.zip && cd bell-react-web-app/
 `
 #### Step 2 => Install Dependencies
 `
