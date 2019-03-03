@@ -10,7 +10,7 @@ $ git clone https://github.com/Jahanzaibv2/bell-react-web-app.git
 `
 
 `
-$ git cd bell-react-web-app
+$ cd bell-react-web-app
 `
 
 #### Step 2 => Install Dependencies
