@@ -1,6 +1,8 @@
 # Bell Template - React Web App
 A Website Template { Bell } in React JS
 
+### Live demo
+Live demo can be found on [Firebase](https://livebellapp.firebaseapp.com)
 
 # How to use it
 
