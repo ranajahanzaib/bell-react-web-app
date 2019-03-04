@@ -2,7 +2,7 @@
 A Website Template { Bell } in React JS
 
 ### Live demo
-Check Live Demo on [Google Firebase](https://livebellapp.firebaseapp.com)
+Check Live Demo at [Google Firebase](https://livebellapp.firebaseapp.com)
 
 # How to use it
 
