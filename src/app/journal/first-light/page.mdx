@@ -1,0 +1,11 @@
+# Writing with MDX
+
+*A quick guide to adding an article to Bell.*
+
+MDX lets you write page content with Markdown and add React components when a story needs them. Bell is already configured to render `.mdx` files in the App Router.
+
+## Add an article
+
+Create a route folder under `src/app/journal/` and add a `page.mdx` file. Write the article in Markdown, then add route-specific metadata in the folder’s `layout.tsx` or `page.tsx`.
+
+The shared MDX component map lives in `mdx-components.tsx`. Start with plain Markdown and add custom components only when they improve the reading experience.
